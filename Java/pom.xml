@@ -30,7 +30,7 @@
       <artifactId>Exam</artifactId>
       <version>1.0</version>
       <scope>system</scope>
-      <systemPath>${project.basedir}/lib/Exam-1.0-SNAPSHOT.jar</systemPath>
+      <systemPath>${project.basedir}/lib/BID.SWE.EXAM.Interfaces-1.0-SNAPSHOT.jar</systemPath>
     </dependency>
   </dependencies>
 

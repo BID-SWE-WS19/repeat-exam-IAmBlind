@@ -7,11 +7,15 @@ public class Exercise3Impl implements Exercise3
 
     @Override
     public Object Method1() {
-        return null;
+        return new Lifts2();
     }
 
     @Override
-    public Object Method2() {
-        return null;
+    public Schneesportgeräte[] Method2() {
+        Snowboard snowboard = new Snowboard();
+        Ski ski = new Ski();
+
+        Schneesportgeräte[] array = {snowboard, ski};
+        return array;
     }
 }
