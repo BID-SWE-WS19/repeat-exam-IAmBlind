@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BID.SWE1.Exam.Interfaces">
+      <HintPath>lib\BID.SWE1.Exam.Interfaces.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
